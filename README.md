@@ -7,7 +7,7 @@ for install pyperclip
 `pip install pyperclip`
 
 ## How to run the script
-`python password_generator.py`
+`python pwd.py`
 
 ## Screenshot
 <div align="center"><img src="https://user-images.githubusercontent.com/50146617/146649143-0b00e222-7b99-4d98-96c5-7d2040e00560.png"></div>
